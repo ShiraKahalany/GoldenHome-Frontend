@@ -1,40 +1,42 @@
-# 🪞 GoldenHome 
+# 🪞 Golden Home Decor Studio  
 
 ## 📌 Overview  
-GoldenHome is an elegant e-commerce platform dedicated to modern home decor and furniture enthusiasts. By curating high-quality products, it simplifies the shopping experience for design aficionados and decorators alike, fostering an engaging and enjoyable interaction with the brand.
+Golden Home is a modern e-commerce platform tailored for home decor enthusiasts. It offers a curated selection of high-quality furniture and decorative items, designed to enhance the shopping experience for individuals passionate about stylish home interiors.
 
 ## ✨ Features  
-- **Homepage**: Eye-catching introduction to the brand and offerings.
-- **Product Catalog**: Showcases a variety of curated home decor items.
-- **Shipping Information Management**: Efficient order and shipping details handling.
-- **About Us Section**: Provides insights into company values and collaborations.
-- **Reusable Components**: Maintains design consistency with modular header and footer.
+- **Homepage**: Welcoming introduction to the brand and its ethos.  
+- **Product Catalog**: Detailed showcase of curated bedroom decor items.  
+- **Shipping Information Management**: Transparent handling of shipping and order details.  
+- **About Us Section**: Insightful overview of company values and global collaborations.  
+- **Responsive Design**: Optimized experience across various devices.  
 
 ## 💻 Tech Stack  
-- **HTML/CSS**: Core languages for web structure and styling.
-- **Responsive Design**: Incorporates media queries for optimal display across devices.
+- **Languages**: HTML, CSS  
+- **Frameworks**: None  
+- **Tools**: None  
 
 ## 🏗 Architecture  
-Implemented using a **modular architecture**, the project separates components by functionality, enhancing maintainability. The organization promotes clear coding practices by distinguishing file types and purposes.
+This project employs a modular architecture, effectively separating components by functionality. This clear structure enhances maintainability and promotes best coding practices across the codebase.
 
 ## 📂 Folder Structure  
 ```
 /HTML
     ├── home.html
-    ├── catalog.html
-    ├── shipping-info.html
+    ├── catalogue.html
     ├── about-us.html
-    ├── header.html
-    └── footer.html
 /CSS
     ├── style.css
     ├── HOME.css
-    ├── catalog.css
-    ├── shipping-info.css
     ├── about-us.css
-    ├── header.css
-    ├── footer.css
     └── responsive.css
 /Images
     └── [Images of products]
 ```
+
+## ▶️ How to Run  
+Run instructions are not provided.
+
+## 📸 Suggested Screenshots  
+- **Home Page**  
+- **Product Catalog**  
+- **About Us Section**  

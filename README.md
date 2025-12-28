@@ -1,27 +1,26 @@
-# 🪞 Golden Home Decor Studio  
+# 🪞 GoldenHome Decor Studio  
 
 ## 📌 Overview  
-Golden Home is a modern e-commerce platform tailored for home decor enthusiasts. It offers a curated selection of high-quality furniture and decorative items, designed to enhance the shopping experience for individuals passionate about stylish home interiors.
+GoldenHome is a modern e-commerce platform dedicated to home decor enthusiasts. It features a curated selection of exquisite furniture and decorative items, offering an enhanced shopping experience for those who appreciate stylish home interiors. The codebase implements essential workflows for product cataloging and brand storytelling.
 
 ## ✨ Features  
-- **Homepage**: Welcoming introduction to the brand and its ethos.  
-- **Product Catalog**: Detailed showcase of curated bedroom decor items.  
-- **Shipping Information Management**: Transparent handling of shipping and order details.  
-- **About Us Section**: Insightful overview of company values and global collaborations.  
-- **Responsive Design**: Optimized experience across various devices.  
+- **Homepage**: Engaging introduction to the brand.  
+- **Product Catalog**: Organized display of curated bedroom decor items.  
+- **About Us Section**: Insightful overview of the company's values and partnerships.  
+- **Responsive Design**: Optimized interface for various devices.  
 
 ## 💻 Tech Stack  
 - **Languages**: HTML, CSS  
 - **Frameworks**: None  
-- **Tools**: None  
+- **Libraries/Tools**: Ionicons for icons  
 
 ## 🏗 Architecture  
-This project employs a modular architecture, effectively separating components by functionality. This clear structure enhances maintainability and promotes best coding practices across the codebase.
+The project employs a modular architecture, separating HTML and CSS functionalities to enhance maintainability. This structure supports a clean, clear user interface alongside robust backend operations.
 
 ## 📂 Folder Structure  
 ```
 /HTML
-    ├── home.html
+    ├── HOME.html
     ├── catalogue.html
     ├── about-us.html
 /CSS
@@ -30,7 +29,7 @@ This project employs a modular architecture, effectively separating components b
     ├── about-us.css
     └── responsive.css
 /Images
-    └── [Images of products]
+    └── [Product Images]
 ```
 
 ## ▶️ How to Run  

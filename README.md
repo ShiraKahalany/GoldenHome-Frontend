@@ -1,55 +1,51 @@
-# 🏡 Golden Home Design Studio  
+# GoldenHome 🏡
 
-📐 A modern home decor and furniture catalog
-
----
-
-## 📌 Overview  
-Golden Home is an online platform dedicated to showcasing curated collections of contemporary home designs. Tailored for homeowners and design enthusiasts, it provides an immersive browsing experience through product galleries and thoughtful design narratives. This codebase implements a user-friendly interface for exploring diverse interior collections.
+## 📌 Overview
+GoldenHome is an elegant e-commerce platform dedicated to modern home decor and furniture enthusiasts.  
+By curating high-quality products, it simplifies the shopping experience for design aficionados and decorators alike, fostering an engaging and enjoyable interaction with the brand.
 
 ---
 
-## ✨ Features  
-- **About Us** section outlining company values and design philosophies  
-- **Product Catalogue** with detailed items including images and pricing  
-- Responsive design adjustments for various screen sizes  
-- Integration of modern styling techniques for an appealing UI  
+## ✨ Features
+- **Homepage** – Eye-catching introduction to the brand and its offerings  
+- **Product Catalog** – Displays a curated selection of home decor items  
+- **Shipping Information Management** – Handles order and shipping details efficiently  
+- **About Us Section** – Shares company values and collaborations  
+- **Reusable Components** – Modular header and footer for consistent design  
 
 ---
 
-## 💻 Tech Stack  
-- **Languages:** HTML, CSS  
-- **Frameworks:** None specified  
-- **Libraries/Tools:** Responsive design techniques, Ionicons for icons  
+## 💻 Tech Stack
+- **HTML / CSS** – Core technologies for structure and styling  
+- **Responsive Design** – Media queries for optimal display across all devices  
 
 ---
 
-## 🏗 Architecture  
-This project follows a client-server architecture, utilizing a collection of HTML and CSS files structured to separate concerns between content presentation and design. The frontend components interact directly, providing a cohesive user experience while allowing for future enhancements.
+## 🏗 Architecture
+The project is implemented using a **modular architecture**, separating components by functionality.  
+This approach improves maintainability and readability by clearly distinguishing between files, styles, and responsibilities.
 
 ---
 
-## 📂 Folder Structure  
-```
-root/
-├── HTML/
+## 📂 Folder Structure
+```text
+/HTML
+│   ├── home.html
+│   ├── catalog.html
+│   ├── shipping-info.html
 │   ├── about-us.html
-│   ├── catalogue.html
-│   └── HOME.html
-├── CSS/
+│   ├── header.html
+│   └── footer.html
+
+/CSS
+│   ├── style.css
 │   ├── HOME.css
-│   └── about-us.css
-└── Images/
-```
+│   ├── catalog.css
+│   ├── shipping-info.css
+│   ├── about-us.css
+│   ├── header.css
+│   ├── footer.css
+│   └── responsive.css
 
----
-
-## ▶️ How to Run  
-Run instructions are not provided.
-
----
-
-## 📸 Suggested Screenshots  
-- **Home Page**  
-- **About Us Page**  
-- **Product Catalogue**  
+/Images
+│   └── Images of products

@@ -1,4 +1,4 @@
-# GoldenHome 🏡
+# GoldenHome🪞
 
 ## 📌 Overview
 GoldenHome is an elegant e-commerce platform dedicated to modern home decor and furniture enthusiasts.  
